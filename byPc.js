@@ -24,4 +24,4 @@ loginBtn.addEventListener('click', (e) => {
   // Redirect to dashboard or next page
   window.location.href = 'home.html';
 });
-
+// GIT CHECK
